@@ -1,8 +1,8 @@
  # Hello, I'm @Santhoshikontheti! 👋
 
 Welcome to my GitHub profile! 
-I bring six years of previous work experience as a Telecom Tier2 Customer Support Engineer at Ericsson,where I honed my skills in troubleshooting, customer service, and technical support. 
-Now, I'm embarking on a new journey to transition into the field of Data A nalysis.
+I bring six years of previous work experience as a Telecom Tier2 Customer Support Engineer at Ericsson,where I acquired my skills in troubleshooting, customer service, and technical support. 
+Now, I'm embarking on a new journey to transition into the field of Data Analysis.
 
 - 🌱 I'm currently pursuing opportunities in the realm of data analysis, leveraging my experience in telecom to dive deeper into data-driven insights.
 - 💼 With a background in telecom and a newfound passion for data, I'm eager to apply my analytical skills to real-world challenges.
